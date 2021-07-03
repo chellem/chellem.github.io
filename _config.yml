@@ -48,7 +48,7 @@ linkedin_username: dickriven-chellemboyee
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior software engineer. I have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Dickriven Chellemboyee and I'm a senior software engineer. I have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Web development</mark> and <mark>Mobile development</mark>
 
@@ -80,7 +80,7 @@ content:
         link: rtknits.com
         # link_text: boringcompany.com
         sub_title: Senior Software Engineer
-        caption: February 2017 - Present
+        caption: February 2021 - Present
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
 #        description: | # this will include new lines to allow paragraphs

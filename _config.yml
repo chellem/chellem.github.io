@@ -95,6 +95,13 @@ content:
         sub_title: Senior Software Engineer
         caption: June 2018 - January 2020
 
+      - layout: left
+        title: Proximity BBDO Indian Ocean
+        sub_title: Software Engineer
+        caption: July 2013 - March 2015
+        description: |
+          Development on different websites using symfony and .Net framework.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
